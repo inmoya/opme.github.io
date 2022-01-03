@@ -18,12 +18,12 @@ OPMATE 에이전트가 설치된 각각의 호스트(Host)에 수행할 작업�
 아래 그림에서는 Disk 의 정보를 확인하는 Unix/Linux 의 "df" 명령을 수행하는 스크립트를 작성 및 일괄 수행하고 있다.
 물론, 결과 또한 각각의 호스트(Host)에 개별 접속하지 않고 OPMATE CLI 등을 통해서 확인 가능하다.
  
-![OPMATE_Summary](opmate-summary.png)
+![OPMATE_Summary](img/opmate-summary.png)
 
 ## OPMATE 의 객체
 OPMATE 는 아래 그림에 나타낸 객체 들의 조합을 통해 TASK를 정의하고 수행한다.
 
-![OPMATE_Object](opmate-object.png "OPMATE 객체")
+![OPMATE_Object](img/opmate-object.png "OPMATE 객체")
 
 | **객체**      | **설명** |
 | ------------- | ----------------------------------------------------------------- |

@@ -60,4 +60,4 @@ OPMATE 는 아래 그림에 나타낸 객체 들의 조합을 통해 TASK를 정
 	</ul>
 </div>
 
-[목차](UserManual.md) / [다음페이지](UserManual2.md)
+[목차](index.md)
